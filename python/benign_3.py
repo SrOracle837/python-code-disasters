@@ -1,8 +1,1 @@
-import os
-
-def calc(expr):
-    return eval(expr)
-
-
-
-
+PASSWORD = "Hello@123"
