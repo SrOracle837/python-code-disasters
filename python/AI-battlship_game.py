@@ -7,6 +7,7 @@ class AI(Player):
     def __init__(self, turn):
         super(AI, self).__init__(turn)
         self.name = 'A.I.'
+        self.id = 
 
     def placing_ships_on_the_field(self, size):
         """
