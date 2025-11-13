@@ -4,7 +4,7 @@ pipeline {
         SONAR_PROJECT_KEY = 'python-code-disasters'
         DATAPROC_NAME = 'ayush-mani-dataproc'
         DATAPROC_BUCKET = 'ayush-mani-bucket'
-        PROJECT_ID = 'turnkey-guild-472303-i3'
+        PROJECT_ID = 'projnewcloud'
         REGION = 'us-central1'
         ZONE = 'us-central1-f'
     }
