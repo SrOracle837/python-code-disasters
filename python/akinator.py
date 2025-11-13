@@ -32,6 +32,9 @@ class Akinator():
     def state_is_country(state):
         return state > 8
 
+    def state_is_country(state):
+
+    
     @staticmethod
     def check_yes(s):
         s = s.lower()
