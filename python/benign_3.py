@@ -1,10 +1,8 @@
 import os
 
-PASSWORD = "Hello@123"
+def calc(expr):
+    return eval(expr)
 
-print("hello world")
-print("hello world")
-print("hello world")
 
 
 
