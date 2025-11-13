@@ -34,6 +34,8 @@ class Akinator():
 
     def state_is_country(state):
 
+    def state_is_country(state):
+
     
     @staticmethod
     def check_yes(s):
