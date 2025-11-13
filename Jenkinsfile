@@ -7,6 +7,7 @@ pipeline {
         DATAPROC_BUCKET = 'ayush-mani-bucket'
         PROJECT_ID = 'turnkey-guild-472303-i3'
         REGION = 'us-central1'
+        ZONE = 'us-central1-f'
     }
     
     stages {
